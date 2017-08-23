@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RePluginTest</string>
+    <string name="hoststring">这是放在主程序中的String</string>
+</resources>
